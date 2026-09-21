@@ -1,5 +1,7 @@
 # Internal Migration and COVID-19 in Bangladesh — Replication Code
 
+[![DOI](https://zenodo.org/badge/1380314224.svg)](https://doi.org/10.5281/zenodo.22881530)
+
 Replication code for:
 
 > **How COVID-19 altered the pattern of internal migration in Bangladesh: Evidence from SVRS 2017–2023**
